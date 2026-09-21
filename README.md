@@ -48,17 +48,17 @@ Efficiency Index = Revenue Share ÷ Spend Share
 An Efficiency Index greater than 1.0 indicates that a channel generates a higher share of revenue than its share of marketing spend.
 
 Dashboard Pages
+
 1. Executive Overview
 
 Provides leadership with a high-level view of overall marketing performance through KPI cards, trends, channel comparisons, and interactive filters.
 
 2. Campaign and Channel Performance
-
 Evaluates campaign effectiveness using spend, revenue, conversions, ROAS, CPA, and efficiency metrics.
 
 3. Channel and Funnel Analysis
-
-Tracks opportunities across funnel stages to identify conversion gaps, pipeline bottlenecks, and channels contributing the strongest commercial outcomes.
+Tracks opportunities across funnel stages to identify conversion gaps, pipeline bottlenecks, and channels contributing the
+strongest commercial outcomes.
 
 Analytical Approach
 Reviewed the structure and quality of the source data.
